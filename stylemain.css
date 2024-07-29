@@ -1,0 +1,19 @@
+* {
+    background-color: rgb(131, 134, 80);
+}
+
+h1 {
+    color:rgb(38, 77, 38);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px
+}
+
+ul {
+    color: rgb(97, 44, 44);
+}
+
+ a {
+    color: rgb(37, 37, 107);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 28px;
+}
